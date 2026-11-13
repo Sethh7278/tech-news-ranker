@@ -18,7 +18,7 @@ The impact is for people who want to stay up to date with what is currently goin
 - AI
 - Hardware
 - Security
-- Emerging technology
+- Emerging Technology
 - Business
 - Software
 - Other
